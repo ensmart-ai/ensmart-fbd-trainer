@@ -159,35 +159,6 @@ Ensmart FBD Trainer is designed around modern industrial automation technologies
 
 ---
 
-# Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/EnsmartControls/ensmart-fbd-trainer.git
-```
-
-Open the project in your preferred development environment.
-
-Build the solution.
-
-Run the application.
-
----
-
-# Documentation
-
-The documentation includes:
-
-- Installation Guide
-- Getting Started Guide
-- User Manual
-- Sample Projects
-- Frequently Asked Questions (FAQ)
-- Best Practices
-- Troubleshooting Guide
-
----
 
 # Roadmap
 
@@ -250,19 +221,15 @@ Website:
 https://www.ensmart.ai
 
 Email:
-sales@ensmart.ai
-
-Technical Support:
-support@ensmart.ai
+bmssales@ensmart.ai
 
 ---
 
 # Useful Links
 
 - Website: https://www.ensmart.ai
-- Products: https://www.ensmart.ai/products
-- Contact: https://www.ensmart.ai/contact
-- LinkedIn: https://www.linkedin.com/company/ensmart-controls
+- Products: https://www.ensmart.ai/products.php
+- Contact: https://www.ensmart.ai/contact-us.php
 
 ---
 
