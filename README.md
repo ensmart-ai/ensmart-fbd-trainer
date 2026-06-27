@@ -247,20 +247,6 @@ Start learning industrial automation.
 
 ---
 
-# Repository Structure
-
-```
-ensmart-fbd-trainer
-│
-├── docs
-├── examples
-├── src
-├── assets
-├── README.md
-├── LICENSE
-└── CHANGELOG.md
-```
-
 ---
 
 # Documentation
