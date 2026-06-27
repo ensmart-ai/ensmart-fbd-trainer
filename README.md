@@ -1,27 +1,61 @@
 # Ensmart FBD Trainer
 
-**Ensmart FBD Trainer** is a professional **Function Block Diagram (FBD) training and simulation software** developed by **Ensmart Controls** for learning, designing, and simulating **PLC programming** based on the **IEC 61131-3** standard.
+**Ensmart FBD Trainer** is a professional **Function Block Diagram (FBD) training and simulation platform** developed by **Ensmart Controls**. It helps students, automation engineers, system integrators, and training institutes learn, design, and simulate **PLC programming** based on the **IEC 61131-3** standard.
 
-The platform is designed for students, automation engineers, system integrators, training institutes, and industrial professionals who want to learn and practice **Function Block Diagram (FBD)** programming in a simple and interactive environment.
+The platform provides an intuitive drag-and-drop environment for creating Function Block Diagram (FBD) logic, making industrial automation concepts easier to understand and apply in real-world scenarios.
+
+---
+
+# Table of Contents
+
+- About Ensmart FBD Trainer
+- About Ensmart Controls
+- Overview
+- Key Features
+- Benefits
+- Applications
+- Supported Concepts
+- Who Can Use It
+- Technologies
+- Typical Use Cases
+- Why Choose Ensmart FBD Trainer
+- Getting Started
+- Repository Structure
+- Documentation
+- Roadmap
+- Contributing
+- Support
+- Useful Links
+- License
+
+---
+
+# About Ensmart FBD Trainer
+
+Function Block Diagram (FBD) is one of the five programming languages defined by the **IEC 61131-3** standard for Programmable Logic Controllers (PLCs). It enables engineers to build automation logic using interconnected function blocks rather than traditional text-based programming.
+
+Ensmart FBD Trainer provides a practical learning environment where users can create, visualize, and understand industrial automation logic. Whether you are learning PLC programming for the first time or teaching automation concepts, the platform offers an efficient and user-friendly experience.
 
 ---
 
 # About Ensmart Controls
 
-Ensmart Controls develops innovative software and hardware solutions for:
+Ensmart Controls develops intelligent solutions for industrial automation and smart infrastructure.
+
+Our expertise includes:
 
 - Building Management Systems (BMS)
 - Industrial Automation
 - PLC Programming
+- HVAC Automation
 - Smart Buildings
-- Industrial IoT (IIoT)
+- Industrial Internet of Things (IIoT)
 - Energy Management Systems
-- Edge AI
-- Digital Twin Solutions
 - BACnet Solutions
 - Modbus Solutions
 - SCADA Integration
-- HVAC Automation
+- Edge AI
+- Digital Twin Technologies
 
 Website:
 https://www.ensmart.ai
@@ -30,9 +64,18 @@ https://www.ensmart.ai
 
 # Overview
 
-Function Block Diagram (FBD) is one of the programming languages defined by the IEC 61131-3 standard for programmable logic controllers (PLCs). It enables engineers to design automation logic using graphical function blocks instead of text-based code.
+Ensmart FBD Trainer is designed to bridge the gap between classroom learning and real industrial applications.
 
-Ensmart FBD Trainer provides an intuitive interface for creating, editing, testing, and understanding PLC control logic. The software is suitable for both educational and industrial training environments, helping users gain practical experience with industrial automation concepts.
+The software enables users to:
+
+- Learn Function Block Diagram programming
+- Understand PLC logic visually
+- Build industrial automation programs
+- Simulate automation workflows
+- Practice real-world control strategies
+- Improve troubleshooting skills
+
+The platform is suitable for educational institutions, industrial training centers, and automation professionals.
 
 ---
 
@@ -40,27 +83,42 @@ Ensmart FBD Trainer provides an intuitive interface for creating, editing, testi
 
 - Graphical Function Block Diagram (FBD) editor
 - Drag-and-drop programming interface
-- Real-time logic simulation
-- IEC 61131-3 compliant programming concepts
-- PLC programming training environment
+- PLC logic visualization
+- Real-time simulation
+- IEC 61131-3 programming concepts
 - Industrial automation examples
 - Building Management System (BMS) examples
-- HVAC control logic
-- Smart building automation examples
-- Easy-to-use interface
+- HVAC control examples
+- Smart building automation workflows
+- Beginner-friendly interface
 - Fast project execution
-- Beginner-friendly learning experience
-- Professional automation training platform
+- Professional learning environment
+- Modular function blocks
+- Industrial-oriented training platform
+
+---
+
+# Benefits
+
+- Learn PLC programming visually
+- Understand industrial automation concepts faster
+- Practice automation logic before deploying to hardware
+- Improve engineering skills
+- Develop troubleshooting techniques
+- Gain hands-on industrial knowledge
+- Suitable for both beginners and experienced engineers
+- Reduce learning time through interactive simulation
 
 ---
 
 # Applications
 
-Ensmart FBD Trainer can be used in:
+Ensmart FBD Trainer is suitable for:
 
 - PLC Programming Training
 - Industrial Automation
 - Factory Automation
+- Process Automation
 - Building Management Systems (BMS)
 - HVAC Automation
 - Smart Buildings
@@ -68,51 +126,43 @@ Ensmart FBD Trainer can be used in:
 - Engineering Colleges
 - Polytechnic Institutions
 - Automation Training Centers
-- Research and Development
+- Research Laboratories
 - Technical Workshops
 - Industrial Skill Development Programs
 
 ---
 
-# Benefits
-
-- Learn PLC programming visually
-- Understand Function Block Diagram programming more effectively
-- Practice automation logic before deployment
-- Improve troubleshooting skills
-- Develop industrial automation knowledge
-- Suitable for classroom and self-paced learning
-- Designed for beginners and experienced engineers
-
----
-
 # Supported Concepts
 
-The trainer supports learning concepts such as:
+The trainer supports learning concepts including:
 
-- Digital Inputs and Outputs
-- Analog Inputs and Outputs
+- Digital Inputs
+- Digital Outputs
+- Analog Inputs
+- Analog Outputs
 - Logic Gates
 - Timers
 - Counters
 - Comparators
-- Mathematical Operations
-- Set/Reset Logic
+- Arithmetic Operations
 - Memory Functions
-- Interlocking
+- Set / Reset Logic
 - Sequential Logic
-- Process Control
+- Interlocking
 - Alarm Logic
 - Motor Control
 - Pump Control
 - Fan Control
 - Lighting Control
 - HVAC Control
+- Process Control
 - Building Automation Logic
 
 ---
 
-# Who Can Use Ensmart FBD Trainer?
+# Who Can Use It?
+
+Ensmart FBD Trainer is ideal for:
 
 - Automation Engineers
 - PLC Programmers
@@ -121,115 +171,165 @@ The trainer supports learning concepts such as:
 - Instrumentation Engineers
 - HVAC Engineers
 - Building Automation Engineers
-- Students
+- Engineering Students
 - Professors
-- Training Institutes
-- Industrial Trainers
+- Technical Trainers
+- Industrial Training Institutes
 - System Integrators
 
 ---
 
-# Technology
+# Technologies
 
-Ensmart FBD Trainer is designed around modern industrial automation technologies including:
+The platform is designed around modern industrial automation technologies including:
 
 - Function Block Diagram (FBD)
 - IEC 61131-3
 - PLC Programming
 - Industrial Automation
+- Building Management Systems (BMS)
 - Smart Buildings
-- Building Management Systems
-- Industrial IoT (IIoT)
-- Energy Management
+- Industrial Internet of Things (IIoT)
 - Edge Computing
+- Energy Management
 - Digital Twin Concepts
 
 ---
 
 # Typical Use Cases
 
-- Learning PLC programming
-- Teaching industrial automation
-- Demonstrating Function Block Diagram logic
-- Developing control strategies
-- Building automation education
-- Industrial training
-- Automation workshops
-- Engineering laboratory exercises
+- PLC Programming Education
+- Industrial Automation Training
+- Engineering Laboratory Exercises
+- Automation Workshops
+- Classroom Demonstrations
+- Industrial Skill Development
+- Building Automation Learning
+- HVAC Control Training
+- Factory Automation Demonstrations
 
 ---
 
+# Why Choose Ensmart FBD Trainer?
+
+Ensmart FBD Trainer simplifies PLC programming through an intuitive graphical interface.
+
+Unlike traditional text-based programming environments, the platform enables users to visualize automation logic using interconnected function blocks, making complex control strategies easier to understand.
+
+Key advantages include:
+
+- Professional user interface
+- Easy-to-learn workflow
+- Industry-oriented examples
+- Practical automation exercises
+- Suitable for academic and industrial environments
+- Designed for real-world automation applications
+
+---
+
+# Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/EnsmartControls/ensmart-fbd-trainer.git
+```
+
+Open the project in your preferred development environment.
+
+Build the solution.
+
+Launch Ensmart FBD Trainer.
+
+Create your first Function Block Diagram project.
+
+Start learning industrial automation.
+
+---
+
+# Repository Structure
+
+```
+ensmart-fbd-trainer
+│
+├── docs
+├── examples
+├── src
+├── assets
+├── README.md
+├── LICENSE
+└── CHANGELOG.md
+```
+
+---
+
+# Documentation
+
+Documentation includes:
+
+- Installation Guide
+- User Guide
+- Getting Started
+- Sample Projects
+- Best Practices
+- Frequently Asked Questions (FAQ)
+- Troubleshooting Guide
+- Release Notes
+
+---
 
 # Roadmap
 
-Future improvements include:
+Upcoming improvements include:
 
 - Additional Function Blocks
 - Advanced PLC Simulation
 - BACnet Communication Examples
 - Modbus Communication Examples
 - MQTT Integration
-- Edge AI Examples
-- Digital Twin Demonstrations
-- Data Logging
 - Alarm Management
 - Trend Visualization
+- Data Logging
+- Edge AI Examples
+- Digital Twin Demonstrations
+- Cloud Connectivity
 - Multi-language Support
-- Cloud Integration
-
----
-
-# Why Choose Ensmart FBD Trainer?
-
-Ensmart FBD Trainer is designed to simplify PLC programming education through an interactive graphical interface. Instead of focusing only on theory, it provides practical experience with industrial automation concepts commonly used in manufacturing, building automation, and smart infrastructure.
-
-The platform helps bridge the gap between classroom learning and real-world industrial applications.
-
----
-
-# Related Technologies
-
-- PLC Programming
-- Function Block Diagram (FBD)
-- Ladder Logic
-- Structured Text
-- Industrial Automation
-- Building Management System (BMS)
-- HVAC Automation
-- SCADA
-- BACnet
-- Modbus
-- Industrial IoT
-- Smart Buildings
-- Energy Management
-- Edge AI
-- Digital Twin
 
 ---
 
 # Contributing
 
-We welcome feedback, feature requests, and suggestions.
+We welcome suggestions and feedback to improve Ensmart FBD Trainer.
 
-If you find an issue or have an enhancement idea, please create an Issue in this repository.
+If you find an issue or have a feature request, please create an Issue in this repository.
 
 ---
 
 # Support
 
-Website:
+Website
+
 https://www.ensmart.ai
 
-Email:
+Email
+
 bmssales@ensmart.ai
 
 ---
 
 # Useful Links
 
-- Website: https://www.ensmart.ai
-- Products: https://www.ensmart.ai/products.php
-- Contact: https://www.ensmart.ai/contact-us.php
+Website
+
+https://www.ensmart.ai
+
+Products
+
+https://www.ensmart.ai/products.php
+
+Contact
+
+https://www.ensmart.ai/contact-us.php
 
 ---
 
@@ -239,64 +339,21 @@ Copyright © 2026 Ensmart Controls.
 
 All Rights Reserved.
 
-This repository contains proprietary software and documentation owned by Ensmart Controls. Unauthorized copying, distribution, or modification is prohibited unless explicitly permitted in writing.
+Ensmart FBD Trainer is proprietary software developed by Ensmart Controls.
+
+The contents of this repository, including source code, documentation, and related materials, are protected by applicable copyright laws.
+
+Unauthorized copying, distribution, modification, reverse engineering, or commercial use without prior written permission from Ensmart Controls is strictly prohibited.
+
+For licensing or commercial inquiries, please contact:
+
+bmssales@ensmart.ai
 
 ---
 
-# SEO Keywords
+## Connect With Ensmart Controls
 
-Function Block Diagram
+Website:
+https://www.ensmart.ai
 
-FBD Trainer
-
-PLC Programming Software
-
-PLC Training Software
-
-PLC Simulator
-
-Industrial Automation Software
-
-Building Management System
-
-Building Automation
-
-HVAC Automation
-
-Industrial IoT
-
-Smart Buildings
-
-Edge AI
-
-Digital Twin
-
-IEC 61131-3
-
-Automation Training
-
-Engineering Software
-
-Industrial Control Systems
-
-BACnet
-
-Modbus
-
-SCADA
-
-PLC Education
-
-Automation Engineering
-
-Industrial Programming
-
-Control Systems
-
-Industrial Training Software
-
-Automation Solutions
-
-Ensmart Controls
-
-Ensmart FBD Trainer
+For product demonstrations, partnership opportunities, or technical discussions, feel free to contact our team through the website or email listed above.
